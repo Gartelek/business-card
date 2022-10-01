@@ -1,0 +1,35 @@
+body {
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+    border-radius: 90px;
+    border: #f0ead2 solid 1px;
+    box-shadow: 5px 11px 30px -12px rgba(0, 0, 0, 1);
+    cursor: pointer;
+
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #adc178;
+    color: #f0ead2;
+    border-bottom: 6px solid #a98467;
+    border-radius: 10px;
+    box-shadow: 5px 11px 30px -12px rgba(0, 0, 0, 1);
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+
+.text {
+    cursor: text;
+}
